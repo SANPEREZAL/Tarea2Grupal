@@ -6,7 +6,7 @@ package tarea2grupal;
 
 /**
  *
- * @author Santiago Perez y Nicolas Rodriguez (<--ponga aqui su nombre xd)
+ * @author Santiago Perez y Nicolas Rodriguez 
  */
 import java.util.Scanner;
 public class Tarea2Grupal {
